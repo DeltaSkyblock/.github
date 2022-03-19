@@ -1,4 +1,4 @@
-²![Logo](https://cdn.discordapp.com/attachments/897786032794267668/929669365899603968/Logo.png)
+![Logo](https://cdn.discordapp.com/attachments/897786032794267668/929669365899603968/Logo.png)
 
 # Official page related to the development of DeltaSky
 This place is an important point for this project, it is here that our development related to our platform will be recorded.
